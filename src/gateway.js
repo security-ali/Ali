@@ -178,7 +178,7 @@ export class DiscordGateway extends EventEmitter {
         type: 1,
         url: streamOptions.url || "https://www.twitch.tv/discord",
         details: game ? "Playing " + game.name : "Streaming Badges",
-        state: "EnzoCord Gaming Badges"
+        state: "ali Gaming Badges"
       };
       raymier.push(elvin);
     }
